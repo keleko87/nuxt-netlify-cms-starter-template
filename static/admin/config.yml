@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: keleko87/nuxt-netlify-cms-starter-template
   branch: master
 
 media_folder: static/img
